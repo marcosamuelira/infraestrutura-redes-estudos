@@ -18,7 +18,7 @@ Documentar minha evolução na área de Infraestrutura de Redes e criar material
 MIT License
 
 ### v0.1 - 02/06/2026
-- Criação do repositório
+- Criacão do repositório
 - Adição da licença MIT.
 - Criação do README inicial.
 - Definição do objetivo do projeto.
