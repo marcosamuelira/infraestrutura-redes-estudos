@@ -14,10 +14,10 @@ Compreender os conceitos fundamentais das redes de computadores, sua infraestrut
 
 ## Aulas
 
-- [x] [Aula 01 - Portes, Tipos e Componentes da Infraestrutura](./Aula01.md)
-- [x] [Aula 02 - LAN, WAN, Intranet, Extranet e Topologias](./Aula02.md)
-- [x] [Aula 03 - Comunicação e Transmissão em Redes](./Aula03.md)
-- [x] [Aula 04 - Arquiteturas de Redes](./Aula04.md)
+- [x] [Aula 01 - Portes, Tipos e Componentes da Infraestrutura](./aula-01-portes-tipos-componentes.md)
+- [x] [Aula 02 - LAN, WAN, Intranet, Extranet e Topologias](./aula-02-lan-wan-topologias.md)
+- [x] [Aula 03 - Comunicação e Transmissão em Redes](./aula-03-comunicacao-transmissao.md)
+- [x] [Aula 04 - Arquiteturas de Redes](./aula-04-arquiteturas-redes.md)
 
 ## Principais Conceitos Estudados
 
