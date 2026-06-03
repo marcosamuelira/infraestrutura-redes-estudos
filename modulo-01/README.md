@@ -12,6 +12,8 @@ Compreender os conceitos fundamentais das redes de computadores, sua infraestrut
 
 ✅ Concluído
 
+**Total de aulas concluídas:** 4/4
+
 ## Aulas
 
 - [x] [Aula 01 - Portes, Tipos e Componentes da Infraestrutura](./aula-01-portes-tipos-componentes.md)
@@ -41,6 +43,27 @@ Compreender os conceitos fundamentais das redes de computadores, sua infraestrut
 - Aula 03
 - Aula 04
 
-## Certificação
+## Referência de Estudo
 
-Selo de conclusão do módulo (a ser adicionado).
+Curso: Infraestrutura de Redes  
+Professor: Robson Vaamonde  
+Módulo: Fundamentos de Infraestrutura de Redes
+
+## Versionamento
+
+| Versão | Data | Descrição |
+|---------|---------|---------|
+| v1.0 | 03/06/2026 | Conclusão do módulo e organização das anotações |
+
+
+## 🏆 Selo de Conclusão
+
+Selo de conclusão obtido após finalizar todas as aulas do Módulo 01 - 
+Fundamentos de Infraestrutura de Redes.
+
+<img width="400" alt="Selo de Conclusão do Módulo 01" src="https://github.com/user-attachments/assets/7940863c-9021-47c8-aaa0-e50f92002474" />
+
+
+## Observação
+
+Este repositório tem caráter educacional e foi criado para documentar meu processo de aprendizagem em Infraestrutura de Redes, servindo como material de consulta e revisão dos conceitos estudados.
